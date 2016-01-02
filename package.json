@@ -1,0 +1,23 @@
+{
+  "name": "cas-server-auth-json",
+  "version": "0.1.0",
+  "description": "A simple authentication plugin for cas-server that uses a JSON credential store",
+  "main": "plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://github.com/jscas/cas-server-auth-json",
+  "bugs": "https://github.com/jscas/cas-server-auth-json/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jscas/cas-server-auth-json.git"
+  },
+  "keywords": [
+    "cas-server",
+    "cas",
+    "apereo",
+    "jasig"
+  ],
+  "author": "James Sumners",
+  "license": "MIT"
+}
